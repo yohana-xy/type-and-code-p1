@@ -1,0 +1,43 @@
+@font-face{
+	font-family: "xx"; 
+	src: url("my-font.otf") format("opentype"); 
+}
+
+h1 {
+	color: cadetblue;
+	font-family: "xx";
+	font-size: 14vw;
+	font-weight: normal; 
+	line-height: 13vw;
+	text-shadow: 10px 10px 100px lightpink;
+	margin-bottom: 30px; 
+}
+
+h3{
+	color: lightblue
+}
+
+body {
+	font-family: "xx"; 
+	font-size: 14px; 
+	background: #e0f6ff;
+	background: linear-gradient(90deg, rgba(224, 246, 255, 1) 0%, rgba(221, 237, 227, 1) 45%, rgba(255, 237, 244, 1) 100%);
+	text-transform: uppercase; 
+	letter-spacing: 0.3px; 
+}
+
+p{
+	font-family: sans-serif; 
+	font-size: 24px; 
+}
+
+.box{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	margin-left: 40px; 
+	margin-right: 40px; 
+}
+
+donkey{
+	
+}
